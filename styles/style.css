@@ -64,7 +64,7 @@ button:disabled {
 }
 
 .content-section {
-  padding: 5vw;
+  padding: 5vi;
 }
 
 .header {
@@ -157,8 +157,8 @@ button:disabled {
 .content__figure {
   position: relative;  
   margin: 7% auto;
-  inline-size: calc(100% + 10vw);
-  inset-inline-end: 5%;
+  inline-size: calc(100% + 10vi);
+  inset-inline-end: 5vi;
 }
 
 .content__picture {
